@@ -34,5 +34,6 @@ Here are some ideas to get you started:
 ### My statistics:
 [![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=gu1show)](https://git.io/streak-stats)
 
-[![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=gu1show&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu1show)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub statistics](https://github-readme-stats.vercel.app/api?username=gu1show&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gu1show&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
